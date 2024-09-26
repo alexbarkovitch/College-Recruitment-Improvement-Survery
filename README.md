@@ -1,4 +1,4 @@
-# College Recruitment Improvement Survery by Alex Barkovitch
+# College Recruitment Improvement Survey by Alex Barkovitch
 This repository contains the ipynb file for the completed project 1 on data visualization as well as the csv files for the 2020 and 2023 student surveys and the cleaned data file for 2023. This project looks at what insights can be drawn from the course survey data to help increase the number of students taking computing classes. I started off by cleaning the survey data file, then analyzing, grouping, and plotting the data to view the trends in the answers given by non-major computer science students. I asked the following questions: 
 Question 1: How many people are enrolled in each course?
 Question 2: Compare the gender demographics of the different classes who answered the survey. Are there any significant differences?
